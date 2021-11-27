@@ -1,3 +1,3 @@
 # desafio010
- Primeiro projeto HTML CSS
- ....
+ Primeiro projeto HTML CSS.
+
